@@ -135,6 +135,7 @@ button,
 .images {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 80px;
   text-align: center;
   min-width: 380px;
