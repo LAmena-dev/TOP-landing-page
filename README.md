@@ -1,4 +1,4 @@
-# landing-page
+# Landing Page
 A [mockup landing page](https://www.theodinproject.com/lessons/foundations-landing-page) with HTML and CSS using flexbox.
 
 ## Technology used
